@@ -1,0 +1,15 @@
+.block {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed grey;
+  cursor: pointer;
+  background-color: whitesmoke;
+}
+
+.block:hover {
+  background: white;
+}
